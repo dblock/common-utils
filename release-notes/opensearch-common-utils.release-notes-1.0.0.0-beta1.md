@@ -5,7 +5,7 @@ Compatible with OpenSearch 1.0.0
 ### Infrastructure
   * Updated templates from .github ([#7](https://github.com/opensearch-project/common-utils/pull/7))
   * Publish to maven local and add CI ([#8](https://github.com/opensearch-project/common-utils/pull/8))
-  * Update test workflow for alpha1 ([#9](https://github.com/opensearch-project/common-utils/pull/9))
+  * Update test workflow for rc1 ([#9](https://github.com/opensearch-project/common-utils/pull/9))
   * Update test workflow and publish beta1 ([#14](https://github.com/opensearch-project/common-utils/pull/14))
 ### Documentation
   * Update licenses ([#3](https://github.com/opensearch-project/common-utils/pull/3))
